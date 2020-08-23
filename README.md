@@ -3,7 +3,7 @@
 >A clone of the basic tinder interface.
 >developed with @ssssangha @cleverqazi.
 
-[!Home](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/Home.png "Tinder Home")
+[!Home](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/Home.png)
 [!Chats](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/Chats.png "List of matches")
 [!ChatScreen](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/ChatScreen.png "Chat Page")
 
