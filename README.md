@@ -1,4 +1,4 @@
-##Tinder-Clone 🔥
+# Tinder-Clone 🔥
 
 >A clone of the basic tinder interface.
 >developed with @ssssangha @cleverqazi.
@@ -19,4 +19,23 @@ cd tinder-clone
 
 ```sh
 npm install
+```
+## Firebase
+
+Put your Configuration on firebase.js and:
+
+```sh
+npm install firebase-tools -g
+```
+
+```sh
+firebase init
+```
+
+```sh
+npm run build
+```
+
+```sh
+firebase deploy
 ```
