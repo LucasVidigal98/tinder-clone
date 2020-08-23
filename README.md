@@ -1,8 +1,7 @@
 #Tinder-Clone 🔥
-![NPM Version][npm-image]][npm-url]
 
-> A clone of the basic tinder interface.
-> developed with @ssssangha @cleverqazi.
+>A clone of the basic tinder interface.
+>developed with @ssssangha @cleverqazi.
 
 [!Home](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/Home.png "Tinder Home")
 [!Chats](https://github.com/LucasVidigal98/tinder-clone/blob/master/assets/Chats.png "List of matches")
