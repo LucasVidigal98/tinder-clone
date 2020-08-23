@@ -25,6 +25,10 @@ npm install
 Put your Configuration on firebase.js and:
 
 ```sh
+npm install firebase
+```
+
+```sh
 npm install firebase-tools -g
 ```
 
