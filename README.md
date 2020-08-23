@@ -3,9 +3,9 @@
 >A clone of the basic tinder interface.
 >developed with @ssssangha @cleverqazi.
 
-![Home](./assets/Home.png "Home Page" =450x450)
-![Chats](./assets/Chats.png "List of matches" =450x450)
-![ChatScreen](./assets/ChatScreen.png "Chat Page" =450x450)
+![Home](./assets/Home.png "Home Page")
+![Chats](./assets/Chats.png "List of matches")
+![ChatScreen](./assets/ChatScreen.png "Chat Page")
 
 ## Test in your computer
 
