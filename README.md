@@ -1,5 +1,7 @@
 # Tinder-Clone 🔥
 
+![Badge](https://img.shields.io/static/v1?label=npm&message=v12.18.2&color=CD5C5C&style=for-the-badge)
+
 >A clone of the basic tinder interface.
 >developed with @ssssangha @cleverqazi.
 
