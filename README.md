@@ -18,15 +18,11 @@ cd tinder-clone
 ```
 
 ```sh
-npm install
+npm install && npm start
 ```
 ## Firebase
 
 Put your Configuration on firebase.js and:
-
-```sh
-npm install firebase
-```
 
 ```sh
 npm install firebase-tools -g
